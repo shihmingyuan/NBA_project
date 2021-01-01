@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NBA Fantacy</string>
+    <string name="tap_screen">Tap screen </string>
+    <string name="face">face</string>
+    <string name="save">Account</string>
+    <string name="race">race</string>
+    <string name="player">player</string>
+    <string name="machine">machine</string>
+    <string name="developer">Developer</string>
+    <string name="fight">FIGHT </string>
+    <string name="page">Page</string>
+    <string name="race_botton">GAME  </string>
+    <string name="draw_button">DRAW </string>
+    <string name="player_button">PLAYER </string>
+    <string name="developer_button">Developer </string>
+    <string name="add">新增</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="btn"></string>
+    <string name="login">登入</string>
+    <string name="draw">一回十連抽</string>
+
+    <string name="skr">407262251-資工三乙施科臣--></string>
+    <string name="loli">407262469-資工三乙-蘇利哲--> </string>
+    <string name="Tim">407262627-資工三乙-陳冠廷--> </string>
+    <string name="dog">407262430-資工三乙-王一鑫--> </string>
+    <string name="ugly">407261685-資工三甲-李朕軒--></string>
+
+
+</resources>
